@@ -7,7 +7,9 @@ This repository contains a small framework and set of API tests for the BBC Soft
 ## Clone the repository
 
 git clone https://github.com/Camayy/BBC-API-Automation.git
+
 or via ssh
+
 git@github.com:Camayy/BBC-API-Automation.git
 
 cd BBC-API-Automation
