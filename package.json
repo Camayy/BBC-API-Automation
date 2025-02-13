@@ -1,5 +1,5 @@
 {
-    "name": "playwright-api-tests",
+    "name": "BBC-API-Tests",
     "version": "1.0.0",
     "description": "API tests",
     "main": "index.js",
